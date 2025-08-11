@@ -5,4 +5,6 @@
 pkg update && pkg upgrade -y 
 pkg install git -y
 pkg install python -y
-
+git clone https://github.com/RKD-TEAM/File-Encrypter-
+cd File-Encrypter-
+python enc..py
