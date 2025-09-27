@@ -8,8 +8,7 @@ pkg update && pkg upgrade -y
 ```
 2.
 ```
-pkg install git -y &&
-pkg install python -y
+pkg install git -y && pkg install python -y
 ```
 3.
 ```
